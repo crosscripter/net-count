@@ -1,9 +1,9 @@
  
-               ~~^#######1##5###3######^~~
-                  ## ><> ## <><  <>< ##
-               ~~~# N E T   C o u n t #~~~
-                  ## <>< ## ><>  ><> ##
-               ~~^######1##6##1##1#####^~~
+    ~~^#######1##5###3######^~~
+        ## ><> ## <><  <>< ##
+    ~~~# N E T   C o u n t #~~~
+        ## <>< ## ><>  ><> ##
+    ~~^######1##6##1##1#####^~~
  
 > " Simon Peter went up, and drew the net to land 
      full of great fishes, an HUNDRED and FIFTY and THREE: 
