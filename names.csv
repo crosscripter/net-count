@@ -1,0 +1,209 @@
+#,Name,Gospels,Matthew,Mark,Luke,John
+1,Jesus*,625,172,97,100,256
+2,Peter*,97,24,19,20,34
+3,John* {THE BAPTIST},83,23,16,24,20
+4,Christ,60,17,8,14,21
+5,Pilate,52,9,10,12,21
+6,Simon* {PETER},45,5,6,12,22
+7,David*,39,17,7,13,2
+8,Moses*,38,7,8,10,13
+9,Abraham*,34,7,1,15,11
+10,Israel,30,12,2,12,4
+11,Elias,28,9,9,8,2
+12,Herod | Herod's {ANTIPAS},25,4,8,13,0
+13,John* {THE APOSTLE},20,3,10,7,0
+14,Judas {ISCARIOT},20,5,3,4,8
+15,James {SON OF ZEBEDEE},19,3,11,5,0
+16,Mary {MOTHER OF JESUS},18,5,1,12,0
+17,Satan,17,4,6,6,1
+18,Joseph* {HUSBAND OF MARY},16,7,0,7,2
+19,Philip | Philip's {THE APOSTLE},15,1,1,1,12
+20,Lazarus,15,0,0,4,11
+21,Mary {MAGDALENE},14,3,4,2,5
+22,Esaias,13,6,1,2,4
+23,Jacob* {ISRAEL},12,4,1,4,3
+24,Andrew,12,2,4,1,5
+25,Zebedee*,12,6,4,1,1
+26,Thomas,11,1,1,1,8
+27,Barabbas,11,5,3,1,2
+28,Herod | Herod's {THE GREAT},10,9,0,1,0
+29,Mary {OF BETHANY},9,0,0,0,9
+30,Martha {OF BETHANY JOHN 11-12},9,0,0,0,9
+31,Jonas {THE PROPHET},9,5,0,4,0
+32,Zacharias {FATHER OF JOHN THE BAPTIST},9,0,0,9,0
+33,Elisabeth*,9,0,0,9,0
+34,Solomon*,9,5,0,3,1
+35,James {THE LESS SON OF ALPHAEUS},8,2,3,3,0
+36,Isaac,8,4,1,3,0
+37,Caiaphas,8,2,0,1,5
+38,Beelzebub,7,3,1,3,0
+39,Joseph* {OF ARIMATHAEA},6,2,2,1,1
+40,Herodias*,6,2,3,1,0
+41,Nathanael,6,0,0,0,6
+42,Mary {MOTHER OF JAMES/JOSES},5,1,3,1,0
+43,Nicodemus,5,0,0,0,5
+44,Noe,5,2,0,3,0
+45,Simon* {FATHER OF JUDAS ISC.},4,0,0,0,4
+46,Philip | Philip's {BROTHER OF HEROD ANTIPAS},4,1,1,2,0
+47,Juda {SON/TRIBE OF ISRAEL},4,2,0,2,0
+48,Alphaeus,4,1,2,1,0
+49,Matthew,4,2,1,1,0
+50,Simon* {CROSS-BEARER},3,1,1,1,0
+51,Simon* {ZELOTES, APOSTLE},3,1,1,1,0
+52,Simon* {THE PHARISEE},3,0,0,3,0
+53,Martha {OF LUKE 10},3,0,0,3,0
+54,Jonas {FATHER OF PETER},3,0,0,0,3
+55,Levi {THE APOSTLE MATTHEW},3,0,1,2,0
+56,Joses {BROTHER OF JAMES THE LESS},3,1,2,0,0
+57,Jesse,3,2,0,1,0
+58,Obed,3,2,0,1,0
+59,Aram,3,2,0,1,0
+60,Salmon,3,2,0,1,0
+61,Annas,3,0,0,1,2
+62,Bartholomew,3,1,1,1,0
+63,Salathiel,3,2,0,1,0
+64,Aminadab,3,2,0,1,0
+65,Booz,3,2,0,1,0
+66,Didymus,3,0,0,0,3
+67,Esrom,3,2,0,1,0
+68,Joanna,3,0,0,3,0
+69,Lot*,3,0,0,3,0
+70,Naasson,3,2,0,1,0
+71,Phares,3,2,0,1,0
+72,Zacchaeus,3,0,0,3,0
+73,Zorobabel,3,2,0,1,0
+74,Simon* {JESUS' HALF-BROTHER},2,1,1,0,0
+75,Simon* {THE LEPER},2,1,1,0,0
+76,Mary {SISTER OF MARTHA},2,0,0,2,0
+77,Mary {THE OTHER MARY},2,2,0,0,0
+78,James {JESUS' HALF-BROTHER},2,1,1,0,0
+79,Judas {SON OF JACOB},2,2,0,0,0
+80,Judas {APOSTLE, NOT ISCARIOT},2,0,0,1,1
+81,Jacob* {FATHER OF JOSEPH- MARY'S HUSBAND},2,2,0,0,0
+82,Zacharias {THE BLOOD OF},2,1,0,1,0
+83,Joses {JESUS' HALF-BROTHER},2,1,1,0,0
+84,Simeon {MAN IN TEMPLE},2,0,0,2,0
+85,Eliakim {SON OF ABIUD},2,2,0,0,0
+86,Abia {ABIJAH KING OF JUDAH},2,2,0,0,0
+87,Daniel,2,1,1,0,0
+88,Eleazar,2,2,0,0,0
+89,Asa,2,2,0,0,0
+90,Joram,2,2,0,0,0
+91,Amon,2,2,0,0,0
+92,Abel,2,1,0,1,0
+93,Gabriel,2,0,0,2,0
+94,Manasses,2,2,0,0,0
+95,Abiud,2,2,0,0,0
+96,Achaz,2,2,0,0,0
+97,Achim,2,2,0,0,0
+98,Azor,2,2,0,0,0
+99,Eliud,2,2,0,0,0
+100,Ezekias,2,2,0,0,0
+101,Jairus,2,0,1,1,0
+102,Jechonias,2,2,0,0,0
+103,Jeremy,2,2,0,0,0
+104,Joatham,2,2,0,0,0
+105,Josaphat,2,2,0,0,0
+106,Josias,2,2,0,0,0
+107,Matthan,2,2,0,0,0
+108,Ozias,2,2,0,0,0
+109,Roboam,2,2,0,0,0
+110,Sadoc,2,2,0,0,0
+111,Salome,2,0,2,0,0
+112,Thaddaeus,2,1,1,0,0
+113,Mary {WIFE OF CLEOPHAS},1,0,0,0,1
+114,Joseph* {SON OF MATTATHIAS},1,0,0,1,0
+115,Joseph* {SON OF JUDA},1,0,0,1,0
+116,Joseph* {SON OF JONAN},1,0,0,1,0
+117,Joseph* {SON OF JACOB},1,0,0,0,1
+118,Judas {JESUS' HALF-BROTHER},1,1,0,0,0
+119,Juda {JESUS' HALF-BROTHER},1,0,1,0,0
+120,Juda {SON OF JOANNA},1,0,0,1,0
+121,Juda {SON OF JOSEPH},1,0,0,1,0
+122,Levi {SON OF MELCHI},1,0,0,1,0
+123,Levi {SON OF SIMEON},1,0,0,1,0
+124,Simeon {SON OF JUDA},1,0,0,1,0
+125,Eliakim {SON OF MELEA},1,0,0,1,0
+126,Abia {PRIEST},1,0,0,1,0
+127,Cainan {SON OF ARPHAXAD},1,0,0,1,0
+128,Cainan {SON OF ENOS},1,0,0,1,0
+129,Mattathias {SON OF AMOS},1,0,0,1,0
+130,Mattathias {SON OF SEMEI},1,0,0,1,0
+131,Matthat {FATHER OF HELI},1,0,0,1,0
+132,Matthat {FATHER OF JORIM},1,0,0,1,0
+133,Melchi {SON OF JANNA},1,0,0,1,0
+134,Melchi {SON OF ADDI},1,0,0,1,0
+135,Aaron,1,0,0,1,0
+136,Nathan,1,0,0,1,0
+137,Rachel,1,1,0,0,0
+138,Abiathar,1,0,1,0,0
+139,Adam,1,0,0,1,0
+140,Naaman,1,0,0,1,0
+141,Eliezer,1,0,0,1,0
+142,Heber,1,0,0,1,0
+143,Ruth,1,1,0,0,0
+144,Enoch,1,0,0,1,0
+145,Lamech,1,0,0,1,0
+146,Er,1,0,0,1,0
+147,Arphaxad,1,0,0,1,0
+148,Amos,1,0,0,1,0
+149,Seth,1,0,0,1,0
+150,Enos,1,0,0,1,0
+151,Alexander,1,0,1,0,0
+152,Cephas,1,0,0,0,1
+153,Jared,1,0,0,1,0
+154,Augustus,1,0,0,1,0
+155,Aser,1,0,0,1,0
+156,Nachor,1,0,0,1,0
+157,Rufus,1,0,1,0,0
+158,Theophilus,1,0,0,1,0
+159,Addi,1,0,0,1,0
+160,Anna,1,0,0,1,0
+161,Archelaus,1,1,0,0,0
+162,Barachias,1,1,0,0,0
+163,Bartimaeus,1,0,1,0,0
+164,Boanerges,1,0,1,0,0
+165,Chuza,1,0,0,1,0
+166,Cleopas,1,0,0,1,0
+167,Cleophas,1,0,0,0,1
+168,Cosam,1,0,0,1,0
+169,Cyrenius,1,0,0,1,0
+170,Eliseus,1,0,0,1,0
+171,Elmodam,1,0,0,1,0
+172,Emmanuel,1,1,0,0,0
+173,Esli,1,0,0,1,0
+174,Heli,1,0,0,1,0
+175,Janna,1,0,0,1,0
+176,Jeremias,1,1,0,0,0
+177,Jona,1,0,0,0,1
+178,Jonan,1,0,0,1,0
+179,Jorim,1,0,0,1,0
+180,Jose,1,0,0,1,0
+181,Lebbaeus,1,1,0,0,0
+182,Lysanias,1,0,0,1,0
+183,Maath,1,0,0,1,0
+184,Malchus,1,0,0,0,1
+185,Maleleel,1,0,0,1,0
+186,Mathusala,1,0,0,1,0
+187,Mattatha,1,0,0,1,0
+188,Melea,1,0,0,1,0
+189,Menan,1,0,0,1,0
+190,Nagge,1,0,0,1,0
+191,Naum,1,0,0,1,0
+192,Neri,1,0,0,1,0
+193,Phalec,1,0,0,1,0
+194,Phanuel,1,0,0,1,0
+195,Rachab,1,1,0,0,0
+196,Ragau,1,0,0,1,0
+197,Rhesa,1,0,0,1,0
+198,Sala,1,0,0,1,0
+199,Saruch,1,0,0,1,0
+200,Sem,1,0,0,1,0
+201,Semei,1,0,0,1,0
+202,Susanna,1,0,0,1,0
+203,Thamar,1,1,0,0,0
+204,Thara,1,0,0,1,0
+205,Tiberius,1,0,0,1,0
+206,Timaeus,1,0,1,0,0
+207,Urias,1,1,0,0,0
+208,Zara,1,1,0,0,0

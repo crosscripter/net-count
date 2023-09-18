@@ -1,0 +1,10 @@
+{
+  "name": "net-count",
+  "version": "1.0.0",
+  "description": "NETCount :: Tool to Measure Occurrences in Text",
+  "main": "netcount.js",
+  "scripts": { },
+  "keywords": [],
+  "author": "Michael Schutt",
+  "license": "ISC"
+}
