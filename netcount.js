@@ -21,7 +21,7 @@
  *
  * Command-line usage:
  * $ netcount dataFile targetTotal minSize maxSize trialCount [-d] 
- * $ netcount "names.csv" 153 -d > groups.log
+ * $ netcount names.csv 153 2 7 3 -d
  *
  *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *     Built for our beloved fellow labourer Brandon Peterson
@@ -266,7 +266,7 @@ Usage:   A program to explore net count of occurrences of a list
          obtaining the same count as listed in the text, 153.
  
 $ netcount dataFile targetTotal minSize maxSize trialCount [-d] 
-$ netcount "names.csv" 153 2 7 3 -d`)
+$ netcount names.csv 153 2 7 3 -d`)
 
 let [
     dataFile=DATA_FILE_PATH, 
