@@ -157,12 +157,10 @@ const randomArray = (sourceArray, min, max) => {
     const randomCount = randomNumber(min, max)
 
     for (let i = 0; i < randomCount; i++) {
-        randomElements = shuffle(randomElements.filter(Boolean))
         const randomIndex = randomNumber(0, randomElements.length)
         const randomElement = randomElements[randomIndex]
-        if (!randomElement) throw `Deleted value selected: ${randomElement}!`
         randomArray.push(randomElement)
-        delete randomElements[randomIndex]
+        randomElements = shuffle(randomElements.filter(el => el !== randomElement))
     }
 
     return randomArray 
@@ -230,7 +228,8 @@ ${BAR}`)
         }
 
         DEBUG && log(`\t\t\tTrial #${tries} => ${json(trial)}`)
-        const record = `${trial.number}, ${trial.size}, "${trial.names.join(', ')}", ${trial.total}, (= ${mentions.join(' + ')})`
+        const trialNames = `"${trial.names.map(name => name.replace(/\,/g, '')).join(' ')}"`
+        const record = `${trial.number}, ${trial.size}, ${trialNames}, ${trial.total}, (= ${mentions.join(' + ')})`
         DEBUG && log(record)
         csv.push(record)
 
@@ -288,6 +287,7 @@ trialCount = validate(trialCount, x => x > 0, `Trial count must be a positive in
 // Load data into pool
 const data = toCSV(load(dataFile))
 const pool = getEntriesByTotal(data, NAME_COL, TOTAL_COL)
+
 
 // Run trials
 const trials = []
