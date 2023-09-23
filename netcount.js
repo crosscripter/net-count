@@ -291,22 +291,32 @@ const pool = getEntriesByTotal(data, NAME_COL, TOTAL_COL)
 
 // Run trials
 const trials = []
+const trialsCSV = []
 const ts = Number(new Date())
-
+let dir = ''
 for (let i = 0; i < trialCount; i++) {
     // Run trial
     const { id, csv, tries } = runTrial(dataFile, data, pool, target, min, max, trialCount)
+    const [lastRow=''] = csv.slice(-1)
+    if (trialsCSV.length === 0) trialsCSV.push(csv[0])
+    trialsCSV.push(lastRow)
     // Write CSV
-    if (!existsSync(`./${id}-${ts}/`)) mkdirSync(`./${id}-${ts}/`)
-    writeFileSync(`./${id}-${ts}/trial${i+1}.csv`, csv.join('\n'), ENCODING)
+    dir = `./${id}-${ts}`
+    if (!existsSync(dir)) mkdirSync(dir)
+    writeFileSync(`${dir}/trial${i+1}.csv`, csv.join('\n'), ENCODING)
     // Add to average trials
     DEBUG && log(`Trial #${i + 1} took ${tries} tries to reach total of ${target} mentions`)
     trials.push(tries)
 }
 
+
 // Calculate average
 const trialSum = trials.reduce((a, b) => a + b, 0) 
 const avgTries = Math.floor(trialSum / trials.length)
-log(`\n${BAR}\n${avgTries} tries on average required after ${trials.length} trial(s) ran to obtain total of ${target} mentions:
+const averageResults = `\n${BAR}\n${avgTries} tries on average required after ${trials.length} trial(s) ran to obtain total of ${target} mentions:
 (${trials.join(' + ')} = ${trialSum} / ${trials.length} = ${avgTries})
-`)
+`
+log(averageResults)
+trialsCSV.push(averageResults)
+
+writeFileSync(`${dir}/trials.csv`, trialsCSV.join('\n'), ENCODING)
